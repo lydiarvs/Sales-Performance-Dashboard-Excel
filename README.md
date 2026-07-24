@@ -57,7 +57,7 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ## 📂 Project Files
 
-- 📄 Sales Performance Dashboard excel.xlsx
+- 📄 Sales_Performance_Dashboard.xlsx
 - 🖼️ Sales Performance dashboard.png
 - 🖼️ Sales Performance Dashboard 2.png
 
@@ -78,7 +78,7 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ## 👩‍💻 Author
 
-**Lydia**
+**Lydia V**
 
 Master's Graduate in Computer Science | Aspiring Data Analyst
 
