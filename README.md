@@ -6,7 +6,7 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objective
 
 - Analyze sales performance using Excel.
 - Track key business metrics with KPI cards.
@@ -33,14 +33,15 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ## 🛠️ Tools & Features Used
 
-- Microsoft Excel
-- Excel Tables
-- PivotTables
-- PivotCharts
-- Slicers
-- Formulas (SUM, IF, Percentage Calculations)
-- Dashboard Design & Data Visualization
+n Tools & Features Used, you could write:
 
+Microsoft Excel
+Excel Tables
+PivotTables
+PivotCharts
+Slicers
+Excel Formulas
+Dashboard Design & Data Visualization
 ---
 
 ## 📷 Dashboard Preview
