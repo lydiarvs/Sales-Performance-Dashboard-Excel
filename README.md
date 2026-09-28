@@ -33,16 +33,13 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ## 🛠️ Tools & Features Used
 
-n Tools & Features Used, you could write:
-
-Microsoft Excel
-Excel Tables
-PivotTables
-PivotCharts
-Slicers
-Excel Formulas
-Dashboard Design & Data Visualization
----
+- Microsoft Excel
+- Excel Tables
+- PivotTables
+- PivotCharts
+- Slicers
+- Excel Formulas
+- Dashboard Design & Data Visualization
 
 ## 📷 Dashboard Preview
 
