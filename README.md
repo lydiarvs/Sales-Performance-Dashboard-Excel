@@ -45,13 +45,11 @@ This project is an interactive Sales Performance Dashboard built using Microsoft
 
 ### Dashboard - Part 1
 
-![Dashboard Part 1](Sales Performance dashboard.png)
+Sales Peformance Dashboard .png
 
 ### Dashboard - Part 2
 
-![Dashboard Part 2](Sales Performance Dashboard 2.png)
-
----
+Sales Peformance Dashboard 2.png
 
 ## 📂 Project Files
 
